@@ -1,0 +1,29 @@
+FLow Website
+
+[student]
+1.index
+2.login/create account 
+3.show data data guru yang ingin di ajak chat based on subject buat 2 saja matematika dan bahasa inggris
+4.Pilih guru
+5.Transaksi
+6.chat
+7.sesi chat berakhir
+8.Back ke show data guru
+[Feature student]
+1. bisa create account
+2. bisa edit profile
+
+
+[Teacher]
+1.Index
+2.login [guru tidak bisa create account admin yang create account]
+3.show data siswa yang request chat
+4.chat
+5.sesi chat berakhir
+6.back ke show data siswa as request
+[Feature Teacher]
+1. bisa edit profile
+
+[Admin]
+1.login admin
+2.Show table user dan bisa create, read, update, delete dan search
